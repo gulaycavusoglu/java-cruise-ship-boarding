@@ -5,13 +5,12 @@
 package cruiseship_git;
         
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class Cruiseship_git {
 
-    public static void main(String[] args) throws FileNotFoundException{
+    public static void main(String[] args) {
         
          Scanner input = new Scanner(System.in);
 
